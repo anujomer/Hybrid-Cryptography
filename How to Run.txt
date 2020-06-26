@@ -1,0 +1,8 @@
+Kindly save your file in test_files folder which you want to encrypt.
+
+Run encrypt.py and write file name which is present in test_files folder. This will generate cipher.json file
+
+Run decrypt.py to decrypt the file cipher.json and check Decrypted_file.(extension of your file)
+
+
+-----> Audio and video will take more time in encryption and decryption process.
